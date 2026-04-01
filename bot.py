@@ -10,7 +10,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, constan
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # --- CONFIGURATION ---
-TOKEN = "8312816041:AAGyoPeBnKSAx-6gOg6WzqaM8E9qTdmVx2M"
+TOKEN = "8312816041:AAGsDZDmjNDOoGBQT6yiw9EY3HwSTq-E08g"
 ADMIN_URL = "https://t.me/vanilarefu"
 SUPPORT_URL = "https://t.me/Vanilagcm"
 TON_ADDRESSES = [
